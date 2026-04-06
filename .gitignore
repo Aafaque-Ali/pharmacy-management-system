@@ -1,0 +1,10 @@
+*/target/
+**/application.properties
+*.class
+*.jar
+node_modules/
+dist/
+.settings/
+.classpath
+.project
+.idea/
